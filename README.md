@@ -1,2 +1,2 @@
-# AI-
+# AI
 AI time
